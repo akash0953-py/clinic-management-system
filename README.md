@@ -44,6 +44,43 @@ This application helps clinics efficiently manage patients, doctors, appointment
 * Admin/Doctor can take manual control when required
 
 ---
+## 📸 Application Screenshots
+
+### 🔐 Login Screen
+<img width="1883" height="1003" alt="image" src="https://github.com/user-attachments/assets/30f7fbaf-6eef-433c-8730-5e4cdc799f48" />
+
+### Registration
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/d53f7a15-a159-4de6-8c04-2293ffb571e7" />
+
+### 📊 Doctor Dashboard
+<img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/67764da3-381c-47c2-9b1a-52a7edd55e85" />
+
+### 📅 Appointment Management
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/62cbf7c2-95c7-4f2c-9778-04b4bce61fc7" />
+
+### 👥 Patient Records
+<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/1368f149-95d6-4ed5-ba4d-db4818c755d6" />
+
+### 👥 Patient Dashboard
+<img width="1910" height="1011" alt="image" src="https://github.com/user-attachments/assets/5c403c5f-4951-473b-9ce6-e184373af415" />
+
+###  Patient Appointments
+<img width="1901" height="1017" alt="image" src="https://github.com/user-attachments/assets/d80fbe79-cb1e-46e3-aabf-594162276958" />
+
+### Medicines
+<img width="1908" height="996" alt="image" src="https://github.com/user-attachments/assets/13b7f70a-baba-4568-a619-52c526e2048c" />
+
+### 💳 Billing & Payments
+<img width="1897" height="1008" alt="image" src="https://github.com/user-attachments/assets/de5612b7-1f67-4c4d-ac7f-49904bf8d795" />
+
+### Consultation
+<img width="1901" height="1002" alt="image" src="https://github.com/user-attachments/assets/67d18362-0a07-40d6-ba42-90930c348a5a" />
+
+### Chatbot
+<img width="850" height="762" alt="image" src="https://github.com/user-attachments/assets/e5367406-d4e6-4b04-8692-43782e75551d" />
+
+### Doctor Profile
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/98fcf5f5-a1e4-4c2b-995e-cedb827a1e21" />
 
 ## 🛠 Tech Stack
 
@@ -76,7 +113,7 @@ This application helps clinics efficiently manage patients, doctors, appointment
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/akash0953-py/clinic-management-system.git
 cd CLINIC-MANAGMENT
 ```
 
@@ -125,7 +162,7 @@ This project was created to:
 
 **Akash Gowda**
 📍 India
-🔗 GitHub: 
+🔗 GitHub: https://github.com/akash0953-py
 
 ---
 
